@@ -1,17 +1,13 @@
 #include "main.h"
 /**
- * main - Validate if n is positive, negative or zero
+ *  _islower- Validate
  * @c: character
  * Return: (0) Success Always
  */
 int _islower(int c)
 {
-  if (c >= 'a' && c <= 'z')
-    return (1);
-  else
-    return (0);
+if (c >= 'a' && c <= 'z')
+return (1);
+else
+return (0);
 }
-
-
-     
- 
