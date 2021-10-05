@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * times_table - print multiplication tables from 0 to 9;
  */
@@ -30,4 +30,6 @@ _putchar(',');
 }
 _putchar('\n');
 }
+}
+ 
  
