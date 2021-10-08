@@ -1,13 +1,12 @@
 #include "main.h"
-/*
+/**
  *_isupper- verify uppercase
- *
- *Return:uppercase_and_otherwise
+ *@a:indicator the caracter
+ *Return: 1 upper else 0
  */
-
-int _issuper(int c)
+int _isupper(int a)
 {
-if (c <=  65 && c <=90)	
-return(1);
-return(0);
+if (a >=65 && a <= 90)
+return (1);
+return (0);
 }
