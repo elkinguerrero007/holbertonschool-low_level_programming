@@ -1,8 +1,8 @@
 #include"main.h"
 /**
  *_isdigit-veryfy is digit
- *@c:come_back_digit
- *Return 1 if digit,0 if otherwise
+ *@c: int come_back_digit
+ *Return:1 if digit,0 if otherwise
  */
 int _isdigit(int c)
 {
