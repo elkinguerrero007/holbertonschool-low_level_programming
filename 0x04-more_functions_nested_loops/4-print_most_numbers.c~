@@ -1,0 +1,11 @@
+#include "main.h"
+/**
+ *print_most_numbers-print num - un_2_and_4
+ */
+void print_most_numbers(void)
+{
+int n;
+ n
+_putchar(n);
+}
+}
