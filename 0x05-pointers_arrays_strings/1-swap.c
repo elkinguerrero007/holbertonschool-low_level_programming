@@ -1,5 +1,5 @@
 /**
- *swap-swaps the values of two integers
+ *swap_int-swaps the values of two integers
  *@a:return value of b
  *@b:return value of a
  */
