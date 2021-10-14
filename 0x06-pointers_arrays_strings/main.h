@@ -4,7 +4,7 @@
 
 #include <unistd.h>
 
-int _putchar(char c)
+int _putchar(char c);
 char *_strcat(char *, char *);
 
 #endif
