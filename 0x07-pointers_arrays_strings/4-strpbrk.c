@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * _strpbrk - searches a string 
+ * _strpbrk - searches a string
  * @s: string to find matches bytes.
  * @accept: bytes to be find.
  * Return: pointer to first occurrence of s in accept if not found NULL
