@@ -1,21 +1,23 @@
-#include <stddef.h>
 /**
- * _strchr - find first occurrence an
- * @s: String which search character
- * @c: character to find
- * Return: a pointer to the first occurrence
+ * _strspn - count characters equals since find space
+ * @s: String to find accept characters and count yours consist before space
+ * @accept: characters to count
+ * Return: number of consist before spaces.
  */
-char *_strchr(char *s, char c)
+unsigned int _strspn(char *s, char *accept)
 {
-	int i = 0;
+	unsigned int i = 0, j, b = 0;
 
-	for (i = 0; s[i]; i++)
+	for (; s[i] && s[i] != ' '; i++)
 	{
-		if (s[i] == c)
-			return (&s[i]);
+		j = 0;
+
+		for (; accept[j]; j++)
+		{
+			if (accept[j] == s[i])
+				b++;
+		}
 	}
 
-	if (s[i] == c)
-		return (&s[i]);
-	return (NULL);
+	return (b);
 }
