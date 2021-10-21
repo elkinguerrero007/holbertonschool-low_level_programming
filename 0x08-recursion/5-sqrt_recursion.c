@@ -6,12 +6,11 @@
 */
 int _sqrt(int n, int i)
 {
-	if (n == i) 
-		return (-1);
-	if (n / i == i && n % i == 0) 
-	   
-		return (i);
-	return (_sqrt(n, ++i));
+if (n == i)
+return (-1);
+if (n / i == i && n % i == 0)
+return (i);
+return (_sqrt(n, ++i));
 }
 /**
  * _sqrt_recursion - compute sqrt of n with recursion
@@ -20,9 +19,9 @@ int _sqrt(int n, int i)
  */
 int _sqrt_recursion(int n)
 {
-	if (n < 0)
-		return (-1);
-	if (n == 1)
-		return (1);
-	return  (_sqrt(n, 2));
+if (n < 0)
+return (-1);
+if (n == 1)
+return (1);
+return  (_sqrt(n, 2));
 }
