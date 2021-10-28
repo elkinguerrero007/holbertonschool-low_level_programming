@@ -1,12 +1,12 @@
+#include "main.h"
 /**
- * _abs - receive number and compute absolute value
- * @n: number to evaluate and transform to absolute value
- * Return: absolute value of number received
+ * _abs - receive number
+ * @i: number to transform to absolute value
+ * Return:  value absolute of number received
  */
-int _abs(int n)
+int _abs(int i)
 {
-	if (n < 0)
-		return (n * -1);
-	return (n);
+if (i < 0)
+return (i * -1);
+return (i);
 }
-

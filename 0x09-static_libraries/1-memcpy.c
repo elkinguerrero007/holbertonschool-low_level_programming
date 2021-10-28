@@ -1,7 +1,7 @@
 /**
- * _memcpy - copy n segment of memory from src to dest
+ * _memcpy - copy of memory from s
  * @dest: memory destiny
- * @src: Source to copy in dest
+ * @src: Source
  * @n: number of chars to copy
  * Return: dest pointer
  */

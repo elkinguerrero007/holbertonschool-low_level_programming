@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
-* _strncat - concat n numbers from src to dest
+* _strncat - concat to dest
 * @dest: string complete
-* @src:  string to join with dest
-* @n:    number of src characters to join
+* @src:  string to twich with dest
+* @n:    number of characters to join
 * Return: dest
 */
 char *_strncat(char *dest, char *src, int n)

@@ -1,17 +1,15 @@
 #include "main.h"
 /**
- * _puts - prints string in standar output
- * @str: *str string to print
+ *_puts-function that prints a string
+ *@str:evalue to string
  */
 void _puts(char *str)
 {
-	/* while s en la posicion actual != \0 */
-	int i = 0;
-
-	while (str[i] != 0)
-	{
-		_putchar(str[i]);
-		i++;
-	}
-	_putchar('\n');
+int i = 0;
+while (str[i] != 0)
+{
+_putchar(str[i]);
+i++;
+}
+_putchar('\n');
 }

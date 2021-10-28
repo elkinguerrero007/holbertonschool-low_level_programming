@@ -1,9 +1,9 @@
 /**
  * _strncpy - copy src strint to dest
  * @dest: destination
- * @src:  source to copy
+ * @src:  main to copy
  * @n:    number of characters to copy
- * Return: char copied
+ * Return: copi
  */
 char *_strncpy(char *dest, char *src, int n)
 {

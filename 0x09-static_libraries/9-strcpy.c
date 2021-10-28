@@ -1,8 +1,8 @@
 /**
  * _strcpy - copy src string to dest
- * @dest: destination
+ * @dest: to go
  * @src: string
- * Return: pointer to dest
+ * Return: pointer to go
  */
 char *_strcpy(char *dest, char *src)
 {
