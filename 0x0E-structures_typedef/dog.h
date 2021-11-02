@@ -3,6 +3,7 @@
 
 /**
  * struct dog - check the code
+ *@name: Name of dog
  *@owner:name_own
  *@age:age
  *@name:name
