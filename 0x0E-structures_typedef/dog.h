@@ -7,6 +7,7 @@
  *@owner:name_own
  *@age:age
  *@name:name
+ *Description: is a structure representation of Dog
  */
 
 typedef struct dog dog_t;
