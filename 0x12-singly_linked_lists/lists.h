@@ -29,6 +29,8 @@ struct list
 
 /* Prototypes functions */
 size_t print_list(const list_t *);
+size_t list_len(const list_t *h);
+
 
 
 
