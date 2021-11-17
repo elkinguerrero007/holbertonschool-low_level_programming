@@ -31,4 +31,5 @@ listint_t *add_nodeint_end(listint_t **, const int);
 void free_listint(listint_t *head);
 void free_listint2(listint_t **);
 int pop_listint(listint_t **head);
+listint_t *get_nodeint_at_index(listint_t *head, unsigned int index);
 #endif
