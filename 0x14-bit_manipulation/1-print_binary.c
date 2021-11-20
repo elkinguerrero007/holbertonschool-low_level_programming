@@ -1,22 +1,12 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
-* print_binary - print a unsigned int in binary format
-* @binary: pointer to strig
-* Return: Binary.
-*/
+ * print_binary - prints the binary representation of a number
+ * @n: num
+ */
 void print_binary(unsigned long int n)
 {
-	size_t size;
-	if (n < 2)
-	{
-		_putchar(n + '0');
-		return;
-	}
-
-	for (size = 0; ; size++)
-	{
-
-	}
-	printf("%lu", n << 1);
+	if (n > 1)
+		print_binary(n >> 1);
+	_putchar((n & 1) + '0');
 }
