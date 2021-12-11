@@ -1,45 +1,23 @@
-#include "main.h"
+#include <stdio.h>
 /**
- * is_prime - evaluate if a number is prime
- * @num: integer to evaluate
- * Return: 0 - 1 - false or true
- */
-int is_prime(int num)
-{
-	if (num <= 1)
-		return (0);
-	else
-	{
-		int i;
-
-		for (i = 2; i < num; i++)
-			{
-				if (num % i == 0)
-					return (0);
-			}
-		return (1);
-	}
-}
-/**
- * main - print largest prime number
- * Return: Success
+ * main - main block
+ * Return: always 0
  */
 int main(void)
 {
-	unsigned long n = 612852475143, i, largest = 0;
 
-	for (i = 0; i < n; i++)
-	{
-		/* get factor number */
+long int n, fp;
 
-		//		if (n % i == 0)
-		//		{
-			/* set largest prime */
-		//			if (is_prime(i))
-		//				largest = i;
-		//		}
+n = 612852475143;
+for (fp = 2; fp <= n; fp++)
+{
+if (n % fp == 0)
+{
+n /= fp;
+fp--;
+}
+}
+printf("%ld\n", fp);
 
-	}
-	printf("%ld", largest);
-	return (0);
+return (0);
 }
