@@ -3,20 +3,20 @@
 #include <time.h>
 
 
-/**                                                                             
- *                                                                              
- *                                                                              
+/**
+ *
+ *
  */
 
 int main(void)
 {
-        srand((unsigned int)(time(NULL)));
+	srand((unsigned int)(time(NULL)));
 
-        int index = 0;
-        char characters[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWX\
-YZ0123456789/,.-+=~`<>:";
-        for(index = 0; index < 12; index++)
-        {
-                printf("%c", characters[rand() % (sizeof characters - 1)]);
-        }
+	int index = 0;
+	char characters[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789/,.-+=~`<>:";
+	for(index = 0; index < 12; index++)
+	{
+		printf("%c", characters[rand() % (sizeof characters - 1)]);
+	}
 }
+
