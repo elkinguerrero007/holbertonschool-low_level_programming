@@ -1,15 +1,28 @@
-CC=gcc
-CFLAGS= -Wall -Werror -Wextra -pedantic
-SRC=main.c holberton.c
-OBJ=$(SRC:.c=.o)
-NAME=holberton
-RM=rm
+#makefile
+#variables
+CC = gcc
+SRC = school.c main.c
+OBJ = $(patsubst %.c, %.o, $(SRC))
+NAME = school
+RM = rm -f
+CFLAGS = -Wall -Werror -Wextra -pedantic
 
+#compilation
+
+#compilation from updated sources
 all: $(OBJ)
 	$(CC) $(CFLAGS) $(OBJ) -o $(NAME)
+
+#delete temporary files
 clean:
-	$(RM) -f *~ $(NAME)
+	$(RM) *.swp *~ $(NAME)
+
+#delete object files
 oclean:
-	$(RM) -f $(OBJ)
+	$(RM) $(OBJ)
+
+#full clean
 fclean: clean oclean
+
+# forces recompilation from all sources
 re: fclean all
