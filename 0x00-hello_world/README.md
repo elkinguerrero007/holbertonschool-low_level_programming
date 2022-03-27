@@ -1,2 +1,2 @@
-#0x00. C - Hello, World#
+# C - HELLO, WORLD
 En este proyecto estare trabajando low level programming
