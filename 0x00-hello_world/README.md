@@ -59,8 +59,8 @@ done
 
 ~~~~
 
->> * Once saved, exit file and change permissions to apply to all users with chmod a+x betty
->> * Move the betty file into /bin/ directory or somewhere else in your $PATH with sudo mv betty /bin/
+>> * Once saved, exit file and change permissions to apply to all users with `chmod a+x betty`
+>> * Move the betty file into /bin/ directory or somewhere else in your `$PATH` with `sudo mv betty /bin/`
 
 ## **_Built with:_**  🛠️
 
@@ -68,4 +68,4 @@ done
 >> 
 >> * Emacs editor
 >> * betty-style
->> * gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+>> * `gcc`, using the options `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89`
