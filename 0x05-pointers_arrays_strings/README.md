@@ -15,7 +15,7 @@
 >> * [Memory Layout](https://intranet.hbtn.io/rltoken/XCdri62uArXHsZev8zHhnA)
     
     
-## **_Built with:_**  🤙
+## **_Built with:_**  🛠️
 
 >> * Ubuntu 20.04 LTS
 >> 
