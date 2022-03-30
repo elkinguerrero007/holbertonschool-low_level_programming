@@ -20,4 +20,4 @@
 >> 
 >> Betty Style
 >> 
->> gcc, using the options `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89`
+>> gcc, using the options `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89`  🏁
