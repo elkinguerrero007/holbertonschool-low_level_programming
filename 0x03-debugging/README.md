@@ -5,7 +5,7 @@
 
 ## **_Resources._** 👌
 
-### **_Read or watch  📑
+### **_Read or watch_**  📑
 
 >> * [Debugging](https://intranet.hbtn.io/rltoken/iADtJa-KkjYI56m-cQyWIw)
 >> 
