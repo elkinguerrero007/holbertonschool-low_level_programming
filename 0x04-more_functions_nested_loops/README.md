@@ -21,7 +21,7 @@
 >> 
 >> * Emacs editor
 >>  
->> *Betty style
+>> * Betty style
 >> 
 >> * `gcc` flags `-Wall` `-Werror` `-pedantic` `-Wextra` `-std=gnu89` 🏁
 
