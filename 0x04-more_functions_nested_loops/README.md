@@ -5,7 +5,7 @@
 
 
 
-## **_Resources._**
+## **_Resources._**  👌
 
 ### **_Read or watch  📑
 
@@ -15,7 +15,7 @@
 >> *  [What is the purpose of a function prototype?](https://intranet.hbtn.io/rltoken/IAfwYbkv3JHqttvqlnz0Bw)
 >> * [C - Header Files (stop before the “Once-Only Headers” paragraph)](https://intranet.hbtn.io/rltoken/QvgB8JXWlTL_yqsUD-3-ag)
 
-## **_Built with:_**
+## **_Built with:_** 🛠️
 
 >> * Ubuntu 20.04 LTS
 >> 
@@ -23,7 +23,7 @@
 >>  
 >> *Betty style
 >> 
->> * `gcc` flags `-Wall` `-Werror` `-pedantic` `-Wextra` `-std=gnu89`
+>> * `gcc` flags `-Wall` `-Werror` `-pedantic` `-Wextra` `-std=gnu89` 🏁
 
 
 
