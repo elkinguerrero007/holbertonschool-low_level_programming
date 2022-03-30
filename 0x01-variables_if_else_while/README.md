@@ -2,7 +2,7 @@
 
 ![matrix](https://user-images.githubusercontent.com/85587286/160724007-b13e530f-a4ab-4d54-865f-1b3b19599f48.gif)
 
-## **_Resources:_**
+## **_Resources:_**  👌
 
 ### **_Read or watch_** 📑
 
@@ -17,14 +17,18 @@
 >> * [while loop in C](https://intranet.hbtn.io/rltoken/Qhq1p5UcR72-VXFJ_iAqWQ)
 >> * [While loop](https://intranet.hbtn.io/rltoken/RY9a1EDxRKNNHhxbJ6Pn_g)
 
-## **_man or help:_**
+## **_man or help:_** 👈
 
 ascii (You do not need to learn about `scanf`, `getc`, `getchar`, `EOF`, `EXIT_SUCCESS`, `time`, `rand`, `srand`, `RAND_MAX`, for loops, do...while loops, functions.)
 
 
-## **_Built with:_**  🏁
+## **_Built with:_**  🤙
 
 >> * Ubuntu 20.04 LTS
+>> 
 >> * Emacs editor
->> * gcc, using the options -Wall -Werror -Wextra -pedantic 
+>> 
+>> * Betty style
+>> 
+>> * gcc, using the options -Wall -Werror -Wextra -pedantic 🏁
 
