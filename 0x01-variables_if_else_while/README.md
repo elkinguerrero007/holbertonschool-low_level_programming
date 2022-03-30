@@ -25,6 +25,10 @@ ascii (You do not need to learn about `scanf`, `getc`, `getchar`, `EOF`, `EXIT_S
 ## **_Built with:_**  🏁
 
 >> * Ubuntu 20.04 LTS
+>> 
 >> * Emacs editor
->> * gcc, using the options -Wall -Werror -Wextra -pedantic 
+>> 
+>> * Betty style
+>> 
+>> * gcc, using the options -Wall -Werror -Wextra -pedantic 🏁
 
