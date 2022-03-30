@@ -16,8 +16,8 @@
 
 >> * Ubuntu 20.04 LTS
 >> 
->> Emacs editor
+>> * Emacs editor
 >> 
->> Betty Style
+>> * Betty Style
 >> 
->> gcc, using the options `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89`  🏁
+>> * gcc, using the options `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89`  🏁
