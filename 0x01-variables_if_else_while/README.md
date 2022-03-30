@@ -17,7 +17,7 @@
 >> * [while loop in C](https://intranet.hbtn.io/rltoken/Qhq1p5UcR72-VXFJ_iAqWQ)
 >> * [While loop](https://intranet.hbtn.io/rltoken/RY9a1EDxRKNNHhxbJ6Pn_g)
 
-## **_man or help:_**
+## **_man or help:_** 👈
 
 ascii (You do not need to learn about `scanf`, `getc`, `getchar`, `EOF`, `EXIT_SUCCESS`, `time`, `rand`, `srand`, `RAND_MAX`, for loops, do...while loops, functions.)
 
