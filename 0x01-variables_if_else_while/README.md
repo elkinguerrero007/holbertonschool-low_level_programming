@@ -30,5 +30,5 @@ ascii (You do not need to learn about `scanf`, `getc`, `getchar`, `EOF`, `EXIT_S
 >> 
 >> * Betty style
 >> 
->> * gcc, using the options -Wall -Werror -Wextra -pedantic 🏁
+>> * gcc, using the options `-Wall` `-Werror` `-Wextra` `-pedantic` 🏁
 
