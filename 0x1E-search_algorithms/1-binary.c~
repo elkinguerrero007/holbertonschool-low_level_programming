@@ -1,0 +1,36 @@
+#include "search_algos.h"
+
+int binary_search(int *array, size_t size, int value)
+{
+    int *copy_array = array;
+    int middle = 0;
+    int middle_value = 0;
+
+    if (!array) 
+        return (-1);
+
+    middle = size / 2;
+    middle_value = *(copy_array + middle);
+
+    while (value != middle_value)
+    {
+        if (value < middle_value)
+        {
+            printf("menor");
+
+        }
+        else
+        {
+            copy_array += middle;
+        }
+
+        
+        middle = size / 2;
+        middle_value = *(copy_array + middle);
+    }
+
+    if (value == middle_value)
+        return (1);
+
+    return (-1);
+}
