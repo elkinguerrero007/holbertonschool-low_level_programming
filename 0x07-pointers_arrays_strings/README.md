@@ -1,10 +1,5 @@
 0x07. C - Even more pointers, arrays and strings
-# *_0x00-Classificacion_reading_*
-
-
-
-## **_Resources._** 👌 
-
+# *_0x07. C - Even more pointers, arrays and strings_*
  
 
 ### **_Read or watch:_**  👈
