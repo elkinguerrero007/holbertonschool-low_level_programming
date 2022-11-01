@@ -8,14 +8,14 @@
 ### **_Read or watch:_**  👈
 
 
->> * [0x0a - malloc & free - quick overview.pdf](https://intranet.hbtn.io/rltoken/aRWpmTTHkSS2nTGh0Q5xyA)
->> * [Dynamic memory allocation in C - malloc calloc realloc free](https://intranet.hbtn.io/rltoken/yD3tk5u--ws7QNFwTOfaDQ)
+>> * [Do I cast the result of malloc?](https://intranet.hbtn.io/rltoken/xRakq81EUvl-3QG_3QUC8A)
 
 
 ##· **_Read or watch_**  👈
 
->> * malloc
->> * free
+>> * exit (3)
+>> * calloc
+>> * realloc
 
 ## **_Built with:_** 🛠️
 
