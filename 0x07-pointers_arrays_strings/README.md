@@ -1,5 +1,7 @@
 0x07. C - Even more pointers, arrays and strings
 # *_0x07. C - Even more pointers, arrays and strings_*
+
+![pointers](https://user-images.githubusercontent.com/85587286/199148941-6a3527cb-795d-499e-8385-8ea4d331f4cc.gif)
  
 
 ### **_Read or watch:_**  👈
