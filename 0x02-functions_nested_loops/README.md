@@ -12,7 +12,6 @@
 >> * [What is the purpose of a function prototype?](https://intranet.hbtn.io/rltoken/bANgUAj_-F9_85yHxzSD6w)
 >> * [C - Header Files (stop before the “Once-Only Headers” paragraph)](https://intranet.hbtn.io/rltoken/xC6XfUoznEIJgfdP52GUIw)
 
-
 ## **_Built with:_** 🛠️
 
 >> * Ubuntu 20.04 LTS
@@ -22,4 +21,3 @@
 >> * gcc, using the options `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89` 🏁
 >> 
 >> * Betty style
-
