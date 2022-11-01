@@ -1,10 +1,10 @@
 # *_0x08. C - Recursion_*
 
 
+![recursion](https://user-images.githubusercontent.com/85587286/199149992-3d7c202f-d961-45af-a2ff-da23bf3b9c43.gif)
 
 ## **_Resources._** 👌 
 
- 
 
 ### **_Read or watch:_**  👈
 
