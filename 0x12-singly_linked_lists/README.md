@@ -10,7 +10,7 @@
 ### **_Read or watch:_**  👈
 
 
->> * [Linked Lists](Linked Lists)
+>> * [Linked Lists](https://intranet.hbtn.io/rltoken/2WOe5XO84Puxd4Y1FUJwVQ)
 >> * [Google](https://intranet.hbtn.io/rltoken/jiyCC9L1Axkl_nEmuh4j3w)
 >> * [Youtube](https://intranet.hbtn.io/rltoken/DcEVPdONWy2p1x8XPH53Uw)
 
