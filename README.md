@@ -6,7 +6,7 @@
 
 ## **_Built with:_**  🛠️
 
->> * Ubuntu 20.4 LTS
+>> * Ubuntu 20.04 LTS
 >> 
 >> * Emacs editor
 >> 
